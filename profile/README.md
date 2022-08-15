@@ -1,19 +1,16 @@
 <div align="center">
 
-
-<h1 align="center"> Welcome to Bkall Studio!</a></h1>
-<h2 align="center"> <sub> A Game Development Studio created by brazilian students. </sub></h2>
-
-
-  <img height="40%" src="https://github-readme-stats.vercel.app/api?username=CassioJ2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJ2&layout=compact&langs_count=1000&theme=tokyonight"/>
+![](https://github.com/BkallStudio/.github/blob/main/icons/waaa.gif)
 </div>
 
 <div style="display: inline_block"><br>
   
-  
+ ![height = "60" width="80](https://github.com/BkallStudio/.github/blob/main/icons/BeKall-natal.gif)
+  <img src="/images/output/video1.gif" width="250" height="250"/>
+
+
   <img align="center" alt="Cassio-Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Cassio-Unity" height="60" width="80" src="icons/unity.svg">
+  <img align="center" alt="Cassio-Unity" height="60" width="80" src="/icons/unity.svg">
 
 
 </div>
