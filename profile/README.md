@@ -44,8 +44,14 @@
 <h1 align="center"> <sub> Actual workers: </sub></h1>
 
  * <a href="https://github.com/CassioJ2" target="_blank">Cássio Almeida</a> <sub> Programmer </sub>
+ * <a href="https://github.com/raiocamos" target="_blank">Caio Lopes</a> <sub> 2D Designer </sub>
  * <a href="https://github.com/ErikSilva23" target="_blank">Erik Silva</a> <sub> 3D Modeler </sub>
- * <a href="https://github.com/raiocamos" target="_blank">Erik Silva</a> <sub> 2D Designer </sub>
+ * <a href="https://github.com/Crisgu05" target="_blank"> Gustavo Christian </a> <sub> Assistant </sub>
+ * <a href="https://github.com/Zetinhan" target="_blank">João Luís Rocha</a> <sub> Sound Maker </sub>
+ * <a href="https://github.com/Kauaornellas" target="_blank">Kauã Ornellas</a> <sub> Level Designer </sub>
+ * <a href="https://github.com/vitort12" target="_blank"> Vitor Anciães </a> <sub> Animator </sub>
+
+
 
 </div>
 
