@@ -1,11 +1,10 @@
-<div style="display: inline-block" align="center"><br>
+<div style="display: block" align="center"><br>
 
-
-  ![](https://github.com/BkallStudio/.github/blob/main/icons/waaa.gif)
-  <p></p>
-  <img src="https://github.com/BkallStudio/.github/blob/main/icons/BeKall-natal.gif" width="65%" height="650">
-  
+<img src="/icons/waaa.gif" width="80%"/>
   <h1></h1>
+  <img align="center" src="https://github.com/BkallStudio/.github/blob/main/icons/BeKall-natal.gif" width="50%" height="55%">
+  
+  <h2></h2>
   
   </div>
 
